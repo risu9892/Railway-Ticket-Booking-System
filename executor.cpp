@@ -77,7 +77,7 @@ int main(){
             
                 bool isAny = false;
                 system("CLS");
-                cout << "train list for delhi to patna" << endl;
+                cout << "Train list for delhi to patna" << endl;
                 vector<pair<deque<int>, int>> dp; 
                 int train_counter = 0;               
                 for(int i = 0; i < 10; i++){
